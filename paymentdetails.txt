@@ -1,0 +1,4 @@
+details
+name
+atmpin
+account no
